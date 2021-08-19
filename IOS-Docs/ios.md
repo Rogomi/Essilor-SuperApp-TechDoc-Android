@@ -54,7 +54,7 @@ Most of the third party libraries are installed using CocoaPods. They can be add
 
 ##### Firebase Platform Libraries.
 **Firebase/Analytics** - Used for App Analytics  
-**Firebase/Crashlytics** - Used to identify causes of crashes from users
+**Firebase/Crashlytics** - Used to identify causes of crashes from users  
 **Firebase/Performance** - Used to monitor application performance
 
 ##### UI Libraries
