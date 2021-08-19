@@ -55,6 +55,7 @@ Most of the third party libraries are installed using CocoaPods. They can be add
 ##### Firebase Platform Libraries.
 **Firebase/Analytics** - Used for App Analytics  
 **Firebase/Crashlytics** - Used to identify causes of crashes from users
+**Firebase/Performance** - Used to monitor application performance
 
 ##### UI Libraries
 **IQKeyboardManagerSwift** - To automatically scroll up the UITextView on screen when the keyboard is up.  
